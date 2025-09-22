@@ -1,7 +1,5 @@
 # program-web-pertemuan3
-# Instagram Profile Clone
-
-Proyek ini adalah halaman web statis yang meniru tampilan profil Instagram menggunakan *HTML, **Tailwind CSS, dan **Bootstrap 5*.
+Proyek ini adalah halaman web statis yang meniru tampilan profil Instagram menggunakan *HTML, **Tailwind, dan **Bootstrap 5**.
 
 ---
 
@@ -19,6 +17,7 @@ Proyek ini adalah halaman web statis yang meniru tampilan profil Instagram mengg
   html
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
   
+
 
 
 ---
