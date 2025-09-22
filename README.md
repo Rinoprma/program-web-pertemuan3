@@ -52,8 +52,8 @@ A: Gunakan pagination atau infinite scroll.
 
 ### Tailwind CSS
 
-![Tailwind Preview]()
+![Tailwind Preview](img/img10.jpg)
 
 ### Bootstrap CSS
 
-![Bootstrap Preview]()
+![Bootstrap Preview](img/img9.jpg)
