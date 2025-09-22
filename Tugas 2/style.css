@@ -1,0 +1,21 @@
+/* foto profil */
+.container img.rouded-circle {
+object-fit: cover;
+transition: transform;
+}
+@media (max-width: 1366px){
+    html {
+        font-size: 75%;
+    }
+}
+/* tablet */
+@media (max-width: 768px){ html {
+        font-size: 62.5%;
+    }
+}
+/* heanphone */
+@media (max-width: 450px) {
+    html {
+        font-size: 55%;
+    }
+}

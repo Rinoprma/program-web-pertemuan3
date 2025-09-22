@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Instagram Profile - Tailwind</title>
+  <!-- Tailwind -->
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100">
+
+  <div class="max-w-3xl mx-auto mt-8 bg-white p-6 rounded-2xl shadow-lg">
+    <!-- Profile Section -->
+    <div class="flex items-center mb-4">
+      <img src="img/img3.jpg" alt="profile" 
+           class="w-32 h-32 rounded-full border-4 border-pink-500"> 
+      <div class="ml-6">
+        <h2 class="text-2xl font-bold">_Saputra13</h2>
+        <button class="px-3 py-1 border rounded-md mr-2 text-sm">Edit Profile</button>
+        <button class="px-3 py-1 bg-blue-500 text-white rounded-md text-sm">Follow</button>
+      </div>
+    </div>
+
+    <!-- Stats -->
+    <div class="flex justify-around border-y py-3 text-center">
+      <div>
+        <span class="font-bold text-lg">6</span><br>
+        <span class="text-gray-500">Posts</span>
+      </div>
+      <div>
+        <span class="font-bold text-lg">14</span><br>
+        <span class="text-gray-500">Followers</span>
+      </div>
+      <div>
+        <span class="font-bold text-lg">18</span><br>
+        <span class="text-gray-500">Following</span>
+      </div>
+    </div>
+
+    <!-- Bio -->
+    <div class="mt-4">
+      <h5 class="font-semibold">Putra</h5>
+    </div>
+
+    <!-- Gallery -->
+    <div class="grid grid-cols-3 gap-2 mt-4">
+      <img src="img/img1.jpg" class="w-full rounded">
+      <img src="img/img2.jpg" class="w-full rounded">
+      <img src="img/img7.jpg" class="w-full rounded">
+      <img src="img/img4.jpg" class="w-full rounded">
+      <img src="img/img5.jpg" class="w-full rounded">
+      <img src="img/img6.jpg" class="w-full rounded">
+    </div>
+  </div>
+
+</body>
+</html>
