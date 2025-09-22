@@ -13,7 +13,6 @@ Proyek ini adalah halaman web statis yang meniru tampilan profil Instagram mengg
   html
   <script src="https://cdn.tailwindcss.com"></script>
   
-
 * *Bootstrap 5 (CDN)*
   Framework CSS dengan komponen siap pakai.
 
